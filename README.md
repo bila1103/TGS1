@@ -1,0 +1,2 @@
+# TGS1
+fungsi
