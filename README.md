@@ -1,9 +1,8 @@
-<html lan="en">
+<html>
 
 <head>
-      <title> Tugas pemograman web</title>
     <style>
-         body {
+        body {
             background-color: white;
         }
 
@@ -28,12 +27,6 @@
         th:hover {
             background-color: rgb(80, 240, 255);
         }
-
-        h1 {
-            text-align: center;
-            font-size: 50px;
-        }
-
         a:visited {
             color: rgb(114, 10, 10);
         }
@@ -47,9 +40,11 @@
         }
     </style>
     <title> Tugas pemograman web</title>
+
 </head>
 
 <body>
+
     <table border="1">
         <tr>
             <th colspan="2">
@@ -63,13 +58,14 @@
                     video pembelajaran
                 </a>
             </th>
+
         </tr>
         <tr>
             <td>
                 <h2>
                     <ul>
                         <li><a
-            href="https://r.search.yahoo.com/_ylt=AwrKAKevJM9mPD8cJr71Qwx.;_ylu=c2VjA2NkLWF0dHIEc2xrA3NvdXJjZQR2dGlkAwRydXJsA2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bEdaVVJTYmlvdm8-/RV=2/RE=1724880175/RO=10/RU=https%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dlGZURSbiovo/RK=2/RS=8ekAKTM01COdQgXtZtdukFS.n.k-">fungsi
+                                href="https://r.search.yahoo.com/_ylt=AwrKAKevJM9mPD8cJr71Qwx.;_ylu=c2VjA2NkLWF0dHIEc2xrA3NvdXJjZQR2dGlkAwRydXJsA2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bEdaVVJTYmlvdm8-/RV=2/RE=1724880175/RO=10/RU=https%3a%2f%2fwww.youtube.com%2fwatch%3fv%3dlGZURSbiovo/RK=2/RS=8ekAKTM01COdQgXtZtdukFS.n.k-">fungsi
                                 pangkat</a>
                         </li>
                 </h2>
@@ -149,6 +145,8 @@
 
             </td>
         </tr>
+
+
         <tr>
             <td>
                 <h2>
@@ -180,7 +178,8 @@
                             fungsi
                             trigonometri</a>
                     </li>
-                    </h2>
+
+                </h2>
             </td>
         </tr>
         <tr>
@@ -205,6 +204,7 @@
                 </h2>
             </td>
         </tr>
+
         <tr>
             <td colspan="2">
                 <footer>
@@ -212,7 +212,11 @@
                 </footer>
             </td>
         </tr>
-        </table>
+
+
+    </table>
     <h1><a href="https://bila1103.github.io/formulir/">TUGAS-2 (FORM) HERE!!!!</a></h1>
+
 </body>
+
 </html>
